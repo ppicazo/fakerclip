@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_dependency "paperclip", ">= 3.4"
   s.add_dependency "fog"
   s.add_dependency "aws-sdk"
-  s.add_dependency "excon", "~> 0.20"
+  s.add_dependency "excon", "~> 0.14"
   s.add_dependency "artifice"
 
   # TODO: maybe cut down on some of these dependencies
